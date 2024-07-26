@@ -1,3 +1,5 @@
-# LCDTM
+# A New OctoCat
 
-Sapeeeeee
+This is a Hindi Octocat
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
